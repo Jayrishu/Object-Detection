@@ -1,0 +1,30 @@
+.heading
+{
+font-size: 23px;
+width: 30%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 20px;
+}
+canvas{
+    border: 5px royalblue dashed;
+    border-radius: 30px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.arrow{
+    width:100px;
+    float: left;
+    border-radius: 30%;
+}
+.num
+{
+font-size: 20px;
+}
